@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,Consumo de combustível (MPG = Milhas por galão),quantitativa,discreta
+cylinders,Número de cilindros do motor.,quantitativa,discreta
+displacement,Volume deslocado pelo motor em polegadas cúbicas.,quantitativa,contínua
+horsepower,Potência do motor medida em cavalos de força (hp).,quantitativa,contínua
+weight,Peso do veículo em libras.,quantitativa,contínua
+acceleration,Tempo em segundos que o veículo leva para ir de 0 a 60 mph.,quantitativa,contínua
+model_year,Ano de fabricação do modelo.,qualitativa,ordinal
+origin,"Origem do veículo (1: EUA, 2: Europa, 3: Japão).",qualitativa,nominal
+name,Nome completo do modelo do veículo.,qualitativa,nominal
